@@ -9,7 +9,7 @@
 void f_pchar(stack_t **head, unsigned int counter)
 {
 	stack_t *h;
-
+h
 	h = *head;
 	if (!h)
 	{
